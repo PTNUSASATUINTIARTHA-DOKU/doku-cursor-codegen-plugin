@@ -16,7 +16,7 @@ In Cursor:
 2. Under **Repositories**, click the `+` icon.
 3. Paste this repo URL:
    ```
-   https://github.com/tricerafi-doku/doku-cursor-codegen-plugin
+   https://github.com/PTNUSASATUINTIARTHA-DOKU/doku-cursor-codegen-plugin
    ```
 4. Search `doku` in Customize → Plugins and click **Add** on **DOKU Codegen**.
 5. Fully restart Cursor.
@@ -24,7 +24,7 @@ In Cursor:
 ## Local development install
 
 ```bash
-git clone https://github.com/tricerafi-doku/doku-cursor-codegen-plugin.git
+git clone https://github.com/PTNUSASATUINTIARTHA-DOKU/doku-cursor-codegen-plugin
 cd doku-cursor-codegen-plugin
 mkdir -p ~/.cursor/plugins/local
 cp -R plugins/doku-codegen ~/.cursor/plugins/local/doku-codegen
